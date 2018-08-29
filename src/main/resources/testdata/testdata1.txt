@@ -1,0 +1,3 @@
+Spark is a powerful tool to process the batch files and streaming files.
+It works 100 times faster than hadoop as it runs on Ram.
+But its not a replacement for the hadoop and other big data eco system
